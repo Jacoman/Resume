@@ -1,0 +1,72 @@
+p {
+	font-size: 1em;
+	line-height: 1.4em;
+	margin-bottom: 20px;
+	color: #444;
+	font-family: Helvetica;
+}
+hr{
+	 border-top: thick solid #548AB7;
+	 height:1px
+	 width: 400px
+	 float: left;
+}
+h1{
+	font-family: Helvetica;
+}
+ul{
+	float: left;
+}
+.workTitle{
+	width: 800px;
+	align-items:center;
+	margin-left: 400px;
+}
+#profile img {
+	width: 8%;
+	height: auto;
+	float: left;
+	border-radius: 50px;
+	margin-right: 20px;
+}
+
+#name h1{
+	float: left;
+}
+
+#contactDetails {
+	float: left;
+	background-color: #EBEBEB;
+	border-radius: 40px;
+}
+.sectionTitle {
+	font-family: Helvetica;
+	float: left;
+	width: 29%;
+	display: inline-block;
+	margin-right: 30px;
+
+}
+.sectionContent {
+  float: left;
+	width: 110%;
+	display: inline-block;
+}
+
+.sectionTitle h1 {
+	font-family: Helvetica, Arial;
+	font-style: italic;
+	font-size: 1.5em;
+	color: #548AB7;
+}
+.headerStyle{
+	background-color: #EBEBEB;
+	align-items: center;
+	border-radius: 30px;
+	padding-bottom: 100px;
+	margin-bottom: 10px
+}
+.column {
+	 float: left;
+	 width: 50%;
+	 }
